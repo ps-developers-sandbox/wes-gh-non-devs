@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: Feb 26 - 29, 2024
+- Class Date: Feb 26 - 30, 2024
 - Facilitator: @wesleygomes022
 
 ## Class Resources
