@@ -2,6 +2,7 @@
 
 - Class Date: Feb 26 - 30, 2024
 - Facilitator: @wesleygomes022
+- minha primeira alteração: Wesley
 
 ## Class Resources
 
